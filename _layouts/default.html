@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/css/styles.css">
+    <link rel="stylesheet" href="/css/syntax.css" async>
+    {% seo %}
+    {% feed_meta %}
+    {% if jekyll.environment == "production" %}
+    <script defer src="https://cloud.umami.is/script.js" data-website-id="002f7c3d-6124-40a4-b5e6-71c1bf4e6dfb"></script>
+    {% endif %}
+  </head>
+  <body class="min-h-screen flex flex-col bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-100 antialiased">
+    <div class="container mx-auto px-4 max-w-4xl flex-1">
+      <!-- Navigation -->
+      <nav class="py-6 print:hidden">
+        <div class="flex items-center justify-between">
+          <a href="/" class="text-xl font-bold hover:text-blue-500 transition-colors">{{ site.name }}</a>
+          
+          <!-- Mobile menu button -->
+          <button type="button" class="md:hidden p-2 cursor-pointer" id="mobile-menu-button">
+            <svg class="w-6 h-6 menu-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
+            </svg>
+            <svg class="w-6 h-6 close-icon hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+            </svg>
+          </button>
+
+          <!-- Navigation links -->
+          <div class="hidden md:flex space-x-4" id="menu-items">
+            <a href="/about" class="font-bold hover:text-blue-500 transition-colors">About</a>
+            <a href="/projects" class="font-bold hover:text-blue-500 transition-colors">Projects</a>
+            <a href="https://www.linkedin.com/in/dmurphy1217/" target="_blank" class="font-bold hover:text-blue-500 transition-colors">LinkedIn</a>
+            <a href="mailto:danielmurph8@gmail.com" target="_blank" class="font-bold hover:text-blue-500 transition-colors">Email</a>
+          </div>
+        </div>
+
+        <!-- Mobile menu -->
+        <div class="hidden md:hidden mt-4" id="mobile-menu">
+          <div class="flex flex-col space-y-4">
+            <a href="/projects" class="font-bold hover:text-blue-500 transition-colors">Projects</a>
+            <a href="https://www.linkedin.com/in/dmurphy1217/" target="_blank" class="font-bold hover:text-blue-500 transition-colors">LinkedIn</a>
+            <a href="mailto:danielmurph8@gmail.com" target="_blank" class="font-bold hover:text-blue-500 transition-colors">Email</a>
+          </div>
+        </div>
+      </nav>
+
+      <!-- Main content -->
+      <main class="py-8">
+        {{ content }}
+      </main>
+
+      <!-- Footer -->
+      <footer class="py-6">
+        <div class="flex justify-end">
+          <p class="text-sm text-gray-600 dark:text-gray-400">
+            Copyright © 2025-Present Dan Murphy.
+            <a href="https://creativecommons.org/licenses/by-sa/4.0/" class="hover:text-blue-500 transition-colors">License</a>
+          </p>
+        </div>
+      </footer>
+    </div>
+
+    <script>
+      // Add transition styles
+      const mobileMenu = document.getElementById('mobile-menu');
+      mobileMenu.style.transition = 'transform 0.3s ease-in-out, opacity 0.3s ease-in-out';
+      mobileMenu.style.transformOrigin = 'top';
+
+      // Mobile menu toggle with animation
+      document.getElementById('mobile-menu-button').addEventListener('click', function() {
+        const menuIcon = document.querySelector('.menu-icon');
+        const closeIcon = document.querySelector('.close-icon');
+        
+        if (mobileMenu.classList.contains('hidden')) {
+          // Show menu
+          mobileMenu.classList.remove('hidden');
+          mobileMenu.style.transform = 'scaleY(0)';
+          mobileMenu.style.opacity = '0';
+          
+          // Force reflow
+          mobileMenu.offsetHeight;
+          
+          // Animate in
+          mobileMenu.style.transform = 'scaleY(1)';
+          mobileMenu.style.opacity = '1';
+        } else {
+          // Animate out
+          mobileMenu.style.transform = 'scaleY(0)';
+          mobileMenu.style.opacity = '0';
+          
+          // Hide after animation
+          setTimeout(() => {
+            mobileMenu.classList.add('hidden');
+          }, 300);
+        }
+
+        menuIcon.classList.toggle('hidden');
+        closeIcon.classList.toggle('hidden');
+      });
+    </script>
+  </body>
+</html>

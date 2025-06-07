@@ -1,0 +1,24 @@
+title: dm blog
+name: dm blog
+tagline: "My blog about software, travel, and things learned along the way."
+email: danielmurph8@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  My blog about software, travel, and things learned along the way.
+baseurl: ""
+url: "https://danmurphy.xyz"
+markdown: kramdown
+exclude: ["tailwind.config.js", "README.md", "CNAME"]
+permalink: /:year/:month/:day/:title/
+github_username: danmurphy1217
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-tailwindcss
+  - jekyll-seo-tag
+  - jekyll-feed
+tailwind:
+  config: "tailwind.config.js"
+author:
+  name: dan murphy
+  url: https://danmurphy.xyz
