@@ -4,7 +4,7 @@ layout: default
 
 👋 Hello, my name is Dan. I am a Software Engineer at Común. Previously, I've worked at Brex and ModernFi.
 
-I love building things, and I particularly find a lot of enjoyment in working with great teams building ambitious products. Overall, the process of turning ambiguous product ideas into concrete and actionable engineering items is something I enjoy.
+I'm passionate about collaborating with teams to tackle ambitious engineering challenges. I enjoy the process of taking customer feedback and vague product ideas and turning them into clear, actionable plans that drive impact. My work spans from product planning and prioritization to backend and infrastructure engineering.
 
 When I am not coding, you can find me trail running and backpacking, cycling, and participating in various endurance sports (mostly triathlons and marathons). I love the outdoors, and also enjoy photographing my adventures.
 
