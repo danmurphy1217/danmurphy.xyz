@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Trust & Feedback"
-date:   2025-11-19 20:21:00 -0400
+date:   2025-11-12 20:21:00 -0400
 category: technology
 permalink: /posts/2025-11-19-trust-and-feedback
+excerpt: Thoughts on Trust & Feedback, and how they enable personal and professional growth.
 ---
 # Thoughts on Trust and Feedback
 
