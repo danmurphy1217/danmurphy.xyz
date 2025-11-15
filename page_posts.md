@@ -4,6 +4,8 @@ title: Posts
 permalink: /posts/
 ---
 
+<div class="mb-16"></div>
+
 {% for post in site.posts %}
 <article class="mb-12">
   <h2 class="text-2xl font-bold mb-4">
