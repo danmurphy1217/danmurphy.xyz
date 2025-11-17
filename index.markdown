@@ -2,10 +2,10 @@
 layout: default
 ---
 
-👋 Hello, my name is Dan. I'm a Software Engineer at Común. Previously, I've worked at Brex and ModernFi.
+👋 Hello, my name is Dan. I'm an Engineer at Común. Previously, I've worked at [Brex](https://www.brex.com/) and [ModernFi](https://www.modernfi.com/).
 
-I'm passionate about collaborating with teams to tackle ambitious engineering challenges. I enjoy the process of taking customer feedback and vague product ideas and turning them into clear, actionable plans that drive impact. My work spans from product planning and prioritization to frontend, backend, and infrastructure engineering.
+My work spans from product planning and management to frontend (mostly web), backend, and infrastructure engineering. I've helped several startups go from 0 -> 1 (and beyond), and have most recently helped Común scale past 100k active users.
 
-Outside of work, you can find me trail running, backpacking, cycling, and participating in various endurance sports (mostly triathlons and marathons). I love the outdoors, and also enjoy photographing my adventures.
+Outside of work, you can find me running (preferably on trails), cycling, skiing, and participating in various endurance sports (mostly triathlons and marathons). I love the outdoors, and also enjoy photographing my adventures.
 
 I currently live in NYC and am always up for a coffee (calendly [here](https://calendly.com/dan-comun/30min))!
