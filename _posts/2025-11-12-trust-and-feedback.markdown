@@ -8,7 +8,7 @@ excerpt: Thoughts on Trust & Feedback, and how they enable personal and professi
 ---
 # Thoughts on Trust and Feedback
 
-One valuable thing I've learned in my career is that trust unlocks feedback. And feedback is the main driver of how we grow.
+One valuable thing I've learned in my career is that trust unlocks feedback. And feedback is the main driver of how we grow and build great teams.
 
 In our careers, and even in our relationships, we make mistakes constantly. They show up in our planning, in the decisions we make, and in how we communicate. I've come to realize that this is not necessarily a problem. While we should always strive for excellence and learn from our past mistakes, if we find ourselves _no_ longer making them it likely means our roles are no longer growing in scope. As we stretch into new territory, it's important that we optimize for discussing mistakes openly.
 
