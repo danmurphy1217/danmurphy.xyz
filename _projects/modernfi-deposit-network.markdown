@@ -2,7 +2,7 @@
 layout: default
 title:  "ModernFi Digital Deposit Network"
 permalink: /projects/digital-deposit-network
-excerpt: I helped build the first ever digital deposit network. The patent is [here](https://patents.google.com/patent/US20250165627A1).
+excerpt: I helped build the first ever digital deposit network. The patent is (here)[https://patents.google.com/patent/US20250165627A1].
 ---
 The term "Digital Deposit Network" refers to the distributed allocation of funds from "sweeping" banks to "receiving" banks. Sweeping Banks are institutions participating in the ModernFi deposit network that move depositor funds off their balance sheet. Receiving Banks are the institutions that receive these funds from sweeping banks.
 
