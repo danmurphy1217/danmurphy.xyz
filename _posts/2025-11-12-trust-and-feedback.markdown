@@ -8,7 +8,7 @@ excerpt: Thoughts on Trust & Feedback, and how they enable personal and professi
 ---
 # Thoughts on Trust and Feedback
 
-One valuable thing I've learned in my career is that trust unlocks feedback. And feedback is the main driver of how we get better.
+One valuable thing I've learned in my career is that trust unlocks feedback. And feedback is the main driver of how we grow.
 
 In our careers, and even in our relationships, we make mistakes constantly. They show up in our planning, in the decisions we make, and in how we communicate. I've come to realize that this is not necessarily a problem. While we should always strive for excellence and learn from our past mistakes, if we find ourselves _no_ longer making them it likely means our roles are no longer growing in scope. As we stretch into new territory, it's important that we optimize for discussing mistakes openly.
 
@@ -22,6 +22,6 @@ One moment that cemented this for me happened when I was leading a major money-m
 
 **What's worked for me:** I've learned not to limit feedback to manager one-on-ones. Your peers, reports, cross-functional partners, family, and friends all see different aspects of how you show up. I make it a habit to end one-on-ones and personal check-ins at work by asking: "What's one thing I could be doing better?" "What should I start or stop doing?" or even "What do you need more of from me right now?"
 
-It's uncomfortable at first, but that discomfort is where growth happens. I've consistently been surprised by how much people appreciate being asked. A similar approach can be applied to personal relationships as well.
+It's uncomfortable at first, but that discomfort is where growth happens. I've consistently been surprised by how much people appreciate being asked these kinds of questions. A similar approach can be applied to personal relationships as well.
 
 I've found that both work and life become more fulfilling when you can feel yourself improving. Trust and feedback are how I've gotten there, and the same loop keeps strengthening the relationships I value most.

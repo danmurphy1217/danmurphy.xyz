@@ -4,7 +4,7 @@ title:  "Pattern Recognition Builds Better Playbooks"
 date:   2025-11-12 20:21:00 -0400
 category: technology
 permalink: /posts/2025-11-19-pattern-recognition-builds-better-playbooks
-excerpt: Build a living playbook by capturing patterns, context, and the why behind your wins.
+excerpt: Build a living playbook by capturing patterns, context, and the why behind your wins and losses.
 ---
 # Pattern Recognition Builds Better Playbooks
 
