@@ -9,7 +9,7 @@ excerpt: Build a living playbook by capturing patterns, context, and the why beh
 
 Experience-based reasoning is one of the most valuable and least taught skills in a career. It's the ability to evaluate the present by recognizing past patterns and, critically, understanding why those patterns worked before. People who do this well convert experience into judgment, not just recollection.
 
-Unfortunately, many professionals learn in a different way. Instead of building mental models from their own experiences, they carry forward procedures from previous companies. A process that worked in one organization is assumed to work again elsewhere, even if the conditions are completely different. The reasoning that made the procedure effective is lost, and only the surface-level steps remain.
+Unfortunately, many people learn in a different way. Instead of building mental models from their own experiences, they carry forward procedures from previous companies. A process that worked in one organization is assumed to work again elsewhere, even if the conditions are completely different. The reasoning that made the procedure effective is lost, and only the surface-level steps remain.
 
 This is rote procedure, and it creates fragility. A process only works as long as the surrounding environment stays the same. When the team grows, the market shifts, constraints tighten, or complexity increases, a borrowed procedure can fail quickly because the operator never understood the assumptions that made it workable in the first place.
 
