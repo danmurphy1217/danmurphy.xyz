@@ -14,7 +14,7 @@ Unfortunately, many professionals learn in a different way. Instead of building 
 
 This is rote procedure, and it creates fragility. A process only works as long as the surrounding environment stays the same. When the team grows, the market shifts, constraints tighten, or complexity increases, a borrowed procedure can fail quickly because the operator never understood the assumptions that made it workable in the first place.
 
----
+<hr style="margin-top: 2rem; margin-bottom: 2rem;">
 
 ## From Procedures to Playbooks
 
@@ -38,8 +38,7 @@ That's a **procedure**—a record of what happened, not why it worked. Someone w
 That difference—**procedural recall versus situational judgment**—is the gap between memorizing rules and reasoning about outcomes. Procedures freeze solutions in time; playbooks grow as the operator does. Pattern recognition is the engine that powers this growth, turning every experience into actionable insight.
 
 
----
-
+<hr style="margin-top: 2rem; margin-bottom: 2rem;">
 
 ## Why This Matters in Careers
 
