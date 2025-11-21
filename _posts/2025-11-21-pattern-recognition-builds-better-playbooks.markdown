@@ -51,4 +51,4 @@ For example, imagine two product managers navigating a high-stakes launch. Both 
 Reflection is how experience becomes leverage. Without it, exposure alone leaves you older, not wiser.
 
 
-![Playbooks diagram showing inputs (historical lessons) feeding into playbooks, which then inform decision support, adaptation, and reflection](/assets/images/playbooks.png)
+![Playbooks diagram showing inputs (historical lessons) feeding into playbooks, which then inform decision support, adaptation, and reflection](/playbooks.png)
