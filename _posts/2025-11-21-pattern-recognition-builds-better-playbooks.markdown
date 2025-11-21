@@ -6,7 +6,6 @@ category: technology
 permalink: /posts/2025-11-21-pattern-recognition-builds-better-playbooks
 excerpt: Build a living playbook by capturing patterns, context, and the why behind your wins and losses.
 ---
-# Pattern Recognition Builds Better Playbooks
 
 Experience-based reasoning is one of the most valuable and least taught skills in a career. It's the ability to evaluate the present by recognizing past patterns and, critically, understanding why those patterns worked before. People who do this well convert experience into judgment, not just recollection.
 
