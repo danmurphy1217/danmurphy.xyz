@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pattern Recognition Builds Better Playbooks"
-date:   2025-11-21 20:21:00 -0400
+date:   2025-11-21 12:00:00 -0400
 category: technology
 permalink: /posts/2025-11-21-pattern-recognition-builds-better-playbooks
 excerpt: Build a living playbook by capturing patterns, context, and the why behind your wins and losses.
@@ -51,4 +51,4 @@ For example, imagine two product managers navigating a high-stakes launch. Both 
 Reflection is how experience becomes leverage. Without it, exposure alone leaves you older, not wiser.
 
 
-![Playbooks diagram showing inputs (historical lessons) feeding into playbooks, which then inform decision support, adaptation, and reflection](/playbooks.png)
+![Playbooks diagram showing inputs (historical lessons) feeding into playbooks, which then inform decision support, adaptation, and reflection](/assets/images/playbooks.png)
