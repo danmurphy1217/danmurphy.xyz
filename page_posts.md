@@ -6,8 +6,10 @@ permalink: /posts/
 
 <div class="mb-16"></div>
 
+{% include post-filters.html %}
+
 {% for post in site.posts %}
-<article class="mb-8">
+<article class="post-item mb-8" data-category="{{ post.category }}">
   <h2 class="text-2xl font-bold mb-4">
     <a href="{{ post.url }}" class="hover:text-blue-500 dark:hover:text-blue-300  transition-colors">{{ post.title }}</a>
   </h2>
