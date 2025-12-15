@@ -1,0 +1,16 @@
+<!-- Category Filter -->
+{% assign categories = site.posts | map: 'category' | uniq | sort %}
+<div class="mb-8">
+  <div class="flex flex-wrap gap-2">
+    <button onclick="filterPosts('all')" class="filter-btn px-4 py-2 rounded-lg border border-gray-300 dark:border-gray-600 hover:bg-blue-500 hover:text-white dark:hover:bg-blue-600 transition-colors active" data-category="all">
+      All
+    </button>
+    {% for category in categories %}
+    <button onclick="filterPosts('{{ category }}')" class="filter-btn px-4 py-2 rounded-lg border border-gray-300 dark:border-gray-600 hover:bg-blue-500 hover:text-white dark:hover:bg-blue-600 transition-colors" data-category="{{ category }}">
+      {{ category | capitalize }}
+    </button>
+    {% endfor %}
+  </div>
+</div>
+
+<script src="{{ '/assets/js/posts-filter.js' | relative_url }}"></script>
