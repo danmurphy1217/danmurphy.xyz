@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The New Cap Table"
-date:   2025-12-24 12:00:00 -0400
+date:   2025-12-24 10:00:00 -0400
 category: technology
 permalink: /posts/2025-12-24-the-new-cap-table
 excerpt: AI is changing how early teams are formed and cap tables are structured.
