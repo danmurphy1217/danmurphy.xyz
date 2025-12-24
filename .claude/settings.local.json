@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bundle exec jekyll serve:*)",
+      "Bash(bundle install:*)",
+      "Bash(rbenv versions:*)",
+      "Bash(cat:*)",
+      "Bash(ruby:*)",
+      "Bash(rbenv install:*)",
+      "Bash(rbenv local:*)",
+      "Bash(rbenv rehash:*)",
+      "Bash(rbenv exec ruby:*)",
+      "Bash(rbenv exec bundle install:*)",
+      "Bash(rbenv exec bundle exec jekyll serve:*)",
+      "Bash(echo:*)",
+      "Bash(sudo chown:*)"
+    ]
+  }
+}
