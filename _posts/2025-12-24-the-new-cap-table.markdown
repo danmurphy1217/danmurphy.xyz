@@ -35,9 +35,11 @@ But the assumptions underlying this model are breaking down.
 
 AI tooling isn't just making engineers more productive - it's fundamentally changing the leverage equation. A senior engineer with Claude, Cursor, or similar tools can now handle workstreams that previously required 2-3 people. The critical part being that this productivity multiplier only works if the engineer has the *judgment* to use it effectively.
 
+This is especially visible in the frontend/backend divide. A strong backend engineer who historically needed a dedicated frontend developer can now use AI to generate React components, handle styling, and build full-stack features end-to-end. The frontend specialist role isn't disappearing entirely, but the bar for when you actually need one has risen significantly.
+
 The value isn't in typing code faster. It's in knowing *what* to build, *how* to architect it, and *when* the AI output is wrong. Mid-level engineers can use the same tools, but most still need someone to define the tasks, validate the approach, and catch the mistakes. That "someone" is usually a senior+ engineer or the founder themselves - which defeats the entire purpose of having an autonomous, smaller team.
 
-This creates a bifurcation. Strong senior engineers who can combine execution speed with product judgment and architectural thinking are now worth significantly more. They can operate autonomously, own entire product surfaces without supervision, and make critical build-vs-buy decisions without constant oversight. Meanwhile, engineers who need direction or review - even if they're fast at executing tasks - provide less leverage in this new model.
+This creates a bifurcation. Strong senior engineers who can combine execution speed with product judgment and architectural thinking are now worth significantly more. They can operate autonomously, own entire product surfaces without supervision, and make critical build-vs-buy decisions without constant oversight. Meanwhile, engineers who need direction or review - even if they're fast at executing tasks - provide less leverage in this new model. This creates a difficult reality for junior engineers: the traditional path of joining an early-stage startup to learn by doing is narrowing. Not because juniors can't contribute, but because the team structures that made mentorship economically viable are becoming less common at the earliest stages.
 
 The cap table math changes accordingly. If you previously needed 6 engineers at ~0.75% each (4.5% total), you might now structure the team as 2-3 exceptional senior engineers at 1.5-2% each (4.5-6% total). Similar total engineering equity, but concentrated among fewer, higher-caliber people who can each deliver the output of multiple traditional engineers.
 
@@ -76,3 +78,5 @@ This model isn't universal. There are clear cases where it doesn't apply, and be
 Even with these above caveats, I believe the directional trend is clear. For a wide range of startups the traditional founding engineering team structure is being replaced by something leaner, more senior, and more equity-concentrated.
 
 The cap table is changing. If you're building or joining an early-stage company, it's worth understanding why.
+
+This raises adjacent questions I'll explore in upcoming writings: How far can non-technical founders go with AI before needing to hire engineers at all? What should engineers expect from non-technical cofounders who are leveraging AI extensively? And how should pre-AI startups restructure their existing cap tables to reflect this new reality? Each deserves deeper examination, but the core shift remains: early-stage engineering teams are getting smaller, more senior, and more equity-concentrated.
